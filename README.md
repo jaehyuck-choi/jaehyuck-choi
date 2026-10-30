@@ -15,7 +15,7 @@
 
 | 프로젝트 | 내용 | 기술 | 기간 |
 |---|---|---|---|
-| [SunSight](https://github.com/jaehyuck-choi/sunsight) | 태양 눈부심·터널 적응으로 인한 교통사고 위험 예측. 전국 고속도로 사고·기상·터널 공공데이터로 학습해 출퇴근 경로 지점별 사고 확률 산출 | Python, pandas, pvlib, scikit-learn, LightGBM | 2026.10 ~ 진행 중 |
+| [눈부심·터널 사고 위험 예측](https://github.com/jaehyuck-choi/glare-tunnel-crash-risk) | 태양 눈부심·터널 적응으로 인한 교통사고 위험 예측. 전국 고속도로 사고·기상·터널 공공데이터로 학습해 출퇴근 경로 지점별 사고 확률 산출 | Python, pandas, pvlib, scikit-learn, LightGBM | 2026.10 ~ 진행 중 |
 
 ## 📫 연락처
 
