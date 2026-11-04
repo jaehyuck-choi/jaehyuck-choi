@@ -16,6 +16,7 @@
 | 프로젝트 | 내용 | 기술 | 기간 |
 |---|---|---|---|
 | [눈부심·터널 사고 위험 예측](https://github.com/jaehyuck-choi/glare-tunnel-crash-risk) | 태양 눈부심·터널 적응으로 인한 교통사고 위험 예측. 전국 고속도로 사고·기상·터널 공공데이터로 학습해 출퇴근 경로 지점별 사고 확률 산출 | Python, pandas, pvlib, scikit-learn, LightGBM | 2026.10 ~ 진행 중 |
+| [iM Global 체류 안내 챗봇](portfolio/im-global-chatbot) | 2026 AI Blockchain Challenge in Daegu 출품. 외국인 고객용 금융 번역·체류 안내 플랫폼에서 E-9·D-2 체류 연장 안내 챗봇 설계·구현 (KOSIS 기반 대상 선정, 228개 관할청 매핑) | 대화 흐름 설계, 규칙 기반 챗봇, 웹 프로토타입 | 2026.09 |
 
 ## 📫 연락처
 
