@@ -4,7 +4,13 @@
 > 팀 아이엠그라운드(4인) · 과제명 TCB: Translation, Chatbot, Blockchain · 2026.09
 > **내 담당: E-9·D-2 체류 안내 챗봇 대상 선정 · 대화 흐름 설계 · 구현**
 
-📄 [포트폴리오 PDF](iM_Global_chatbot_portfolio.pdf)
+### ▶ [챗봇 데모 바로 써보기](https://jaehyuck-choi.github.io/imglobal-visa-chatbot/)
+
+[![챗봇 데모 열기](https://img.shields.io/badge/%EC%B1%97%EB%B4%87%20%EB%8D%B0%EB%AA%A8-%EB%B0%94%EB%A1%9C%20%EC%8B%A4%ED%96%89-2ea44f?style=for-the-badge)](https://jaehyuck-choi.github.io/imglobal-visa-chatbot/)
+
+- D-2·E-9 체류자격을 고르고 질문에 답하면, 마지막에 필요 서류·관할기관을 항목별 토글로 정리해 보여줍니다. 설치 없이 브라우저에서 바로 실행됩니다.
+- 💻 소스 코드(PDF 구조화 추출 → 관할청 매핑 → 대화 흐름): [imglobal-visa-chatbot](https://github.com/jaehyuck-choi/imglobal-visa-chatbot)
+- 📄 [포트폴리오 PDF](iM_Global_chatbot_portfolio.pdf)
 
 ## 기 · 문제
 대구 외국인주민은 **61,554명**(2024, 전년 대비 +4.4%)으로, 급여계좌·해외송금처럼 은행과 반복 거래하는 고객군입니다. 그러나 체류기간 연장에 필요한 서류가 체류자격과 상황마다 달라, 고객은 무엇을 준비할지 모르고 은행은 고객정보 갱신 상담 부담을 겪습니다. 팀은 금융 특화 번역과 체류 안내를 결합한 플랫폼을 제안했고, 저는 체류 안내 챗봇을 맡았습니다.
