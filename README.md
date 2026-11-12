@@ -1,25 +1,23 @@
 ### 최재혁 · Jaehyuck Choi
 
-**일상의 불편함에서 문제를 찾고, 데이터로 답을 만듭니다.**
+**호기심으로 일상의 불편을 그냥 지나치지 않고, 데이터 분석으로 원인을 찾아 해결하는 과정을 즐깁니다.**
 
-iM Digital Banker Academy 데이터 분석 과정 · 머신러닝 / 딥러닝
+iM Digital Banker Academy 데이터 분석 과정 · 데이터 분석 · 머신러닝
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
-#### 📂 프로젝트
+## 주요 프로젝트
 
-| 프로젝트 | 한 줄 | 내 역할 |
+| 프로젝트 | 결과 | 내 기여 |
 |---|---|---|
-| 🚧 딥러닝 팀 프로젝트 | 진행 중 · 2026.11 ~ | 곧 업데이트 |
-| [**눈치**](https://github.com/Nunchi-ML) | 눈부심·터널 밝기 변화를 미리 알려 주는 주행 안내 · 모델 2개 + 운전 시뮬레이터 · 2026.10 ~ 11 | 터널 암순응 모델 (처음 보는 카메라 **F1 .844**) · API · [자세히 →](https://github.com/jaehyuck-choi/tunnel-dark-adaptation-risk) |
-| [**iM Global**](portfolio/im-global-chatbot) | 외국인 체류 연장 안내 챗봇 · 2026 AI Blockchain Challenge in Daegu 출품 · 2026.09 | 대상 선정 · 대화 흐름 설계 · 구현 · [▶ 데모](https://jaehyuck-choi.github.io/imglobal-visa-chatbot/) |
+| [**터널 암순응 위험도 모델**](https://github.com/jaehyuck-choi/tunnel-dark-adaptation-risk) | 처음 보는 카메라 66장·51개 장면에서 Macro F1 **.844** (사고 예측 점수 아님) | 팀 프로젝트 내 모델 ③ 담당 · 데이터·정답 설계, 모델 검증, 동공 해석, FastAPI |
+| [**iM Global 체류 안내 챗봇**](portfolio/im-global-chatbot) | E-9·D-2 체류 연장 절차와 서류 발급 방법을 안내하는 웹 프로토타입 · 공모전 출품 | 체류자격 대상 선정, 대화 흐름·데모 구현 · [▶ 데모](https://jaehyuck-choi.github.io/imglobal-visa-chatbot/) · [사례 보기](portfolio/im-global-chatbot/README.md) |
 
 #### 📫 연락처
 
