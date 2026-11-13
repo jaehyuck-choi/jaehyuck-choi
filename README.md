@@ -12,12 +12,12 @@ iM Digital Banker Academy · 데이터 분석 / 머신러닝
 
 ---
 
-## 주요 프로젝트
+#### 📂 프로젝트
 
-| 프로젝트 | 결과 | 내 기여 |
+| 프로젝트 | 한 줄 | 내 역할 |
 |---|---|---|
-| [**눈치**](https://github.com/Nunchi-ML) · 팀 프로젝트<br><sub>눈부심·터널 밝기 변화를 미리 알리는 주행 안내</sub> | 내 모델(터널 암순응 위험도): 처음 보는 카메라 66장·51개 장면에서 Macro F1 **.844**<br><sub>물리 가정으로 만든 등급을 맞힌 점수이며, 사고 예측 점수가 아님</sub> | 터널 암순응 모델 담당 · 데이터·정답 설계, 모델 검증, 동공 해석, FastAPI · [내 모델 보기](https://github.com/jaehyuck-choi/tunnel-dark-adaptation-risk) · [▶ 시뮬레이터](https://nunchi-drive.vercel.app) |
-| [**iM Global 체류 안내 챗봇**](portfolio/im-global-chatbot) | E-9·D-2 체류 연장 절차와 서류 발급 방법을 안내하는 웹 프로토타입 · 공모전 출품 | 체류자격 대상(E-9·D-2) 선정, 대화 흐름·데모 구현 · [▶ 데모](https://jaehyuck-choi.github.io/imglobal-visa-chatbot/) · [사례 보기](portfolio/im-global-chatbot/README.md) |
+| [**눈치**](https://github.com/Nunchi-ML) | 눈부심이나 터널 밝기 변화를 미리 알려 주는 주행 안내. 모델 2개와 운전 시뮬레이터 · 2026.10 ~ 11 | 터널 암순응 모델과 API. 처음 보는 카메라 사진 66장에서 F1 **.844** (사고 예측 점수는 아님) · [자세히 →](https://github.com/jaehyuck-choi/tunnel-dark-adaptation-risk) |
+| [**iM Global**](portfolio/im-global-chatbot) | 외국인 은행 고객을 위한 금융 번역·체류 안내 플랫폼. 2026 AI Blockchain Challenge in Daegu 출품 · 2026.09 | 플랫폼 안의 체류 연장 안내 챗봇을 맡아 E-9·D-2 대상 선정부터 대화 설계, 구현까지 · [▶ 챗봇 데모](https://jaehyuck-choi.github.io/imglobal-visa-chatbot/) |
 
 #### 📫 연락처
 
